@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
-  "homepage": "https://cyrilleBB.github.io/soundboard",
+  "homepage": "https://CyrilleBB.github.io/soundboard",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
